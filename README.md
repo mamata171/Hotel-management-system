@@ -1,5 +1,5 @@
 # Hotel-management-system
-A beautifull and real time hotel management system built using python in GuI tkinter and backend mysql
+A beautifull and real time hotel management system built using python GuI tkinter and mysql
 
 I have divided this project two main parts 1. the hotel management sysem 2. the login system
 
